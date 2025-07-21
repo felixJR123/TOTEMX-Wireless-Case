@@ -1,7 +1,7 @@
 # TOTEMX-Wireless-Case
 Created this case for the wireless version of the TOTEMX by azhizhinov https://github.com/azhizhinov/TOTEMX
 
-Uploaded files are only left side, mirror it for the righ side
+Uploaded files are only left side (for version 1), mirror it for the righ side. Version 2 has left and right sides for the top piece.
 
 There is no need to use supports when printing
 
